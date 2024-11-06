@@ -6,4 +6,4 @@ Here be dragons and whatnot.
 
 It's probably a good idea to fork your own version if you're considering to go this route. Feel free to use this as a starting point, suggestions and prs are also always welcome.
 
-I myself based this on https://github.com/alvr/alpine-android and https://github.com/bell-sw/Liberica
+I based this on https://github.com/alvr/alpine-android and https://github.com/bell-sw/Liberica
